@@ -8,7 +8,7 @@
 
 project = 'toolchain'
 copyright = '2023, Artem Vesnin'
-author = 'Artem Vesnin, Dasha sisimirova'
+author = 'Artem Vesnin, Dasha Sisimirova'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
